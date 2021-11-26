@@ -33,3 +33,7 @@
 img.mediana {
   height: 400px;
 }
+
+.no-decoration {
+  text-decoration: none;
+}
